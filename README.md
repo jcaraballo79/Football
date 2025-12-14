@@ -1,4 +1,4 @@
-Football Challenge from Ch. 1 of Prof. Ghallaugher's SwiftUI Course
+Solution to the "What is Football to You?" Challenge from Ch. 1 of Prof. Ghallaugher's SwiftUI Course
 Contact me at jcaraballo79@gmail.com
 
 LinkedIn profile: www.linkedin.com/in/jorge-j-caraballo
